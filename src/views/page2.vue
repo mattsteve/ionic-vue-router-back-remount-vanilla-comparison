@@ -1,10 +1,7 @@
 <template>
     <ion-page>
-        <ion-content style="--background: transparent;">
+        <ion-content>
             <p>This is page 2</p>
-            <ion-button color="primary" expand="block" @click="goNextPage()">
-                Go to next page
-            </ion-button>
         </ion-content>
     </ion-page>
 </template>
