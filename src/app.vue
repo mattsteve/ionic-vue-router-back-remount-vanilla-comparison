@@ -1,9 +1,5 @@
 <template>
-    <ion-app id="app">
-        <ion-tabs>
-            <ion-router-outlet />
-        </ion-tabs>
-    </ion-app>
+    <router-view />
 </template>
 
 <script lang="ts">

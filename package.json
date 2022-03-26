@@ -8,12 +8,9 @@
         "lint": "vue-cli-service lint"
     },
     "dependencies": {
-        "@ionic/vue": "6.0.13",
-        "@ionic/vue-router": "6.0.13",
         "@typescript-eslint/eslint-plugin": "4.23.0",
         "@typescript-eslint/parser": "4.23.0",
         "core-js": "3.19.1",
-        "ionicons": "5.0.1",
         "vue": "3.2.31",
         "vue-class-component": "8.0.0-rc.1",
         "vue-property-decorator": "10.0.0-rc.3",
@@ -29,7 +26,7 @@
         "@vue/cli-plugin-unit-jest": "4.5.0",
         "@vue/cli-plugin-vuex": "4.5.0",
         "@vue/cli-service": "4.5.0",
-        "@vue/compiler-sfc": "3.2.22",
+        "@vue/compiler-sfc": "3.2.31",
         "acorn": "6.0.0",
         "babel-jest": "25.1.0",
         "bindings": "^1.5.0",
